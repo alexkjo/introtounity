@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 In California, its sunny
+=======
+Utah, it's windy
+>>>>>>> Valicity
